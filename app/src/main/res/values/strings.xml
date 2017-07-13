@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Musical-Structure</string>
+    <string name="main_title">Music Player</string>
+    <string name="main_description">This is the landing page, as soon as the app is opened it brings the user to a list of pages they can go to. The are able to access every part of the app from here</string>
+    <string name="NowPlaying">Now Playing</string>
+    <string name="Songs">Songs</string>
+    <string name="Album">Albums</string>
+    <string name="Artists">Artists</string>
+    <string name="Payment">Payment</string>
+    <string name="pay_description">This is the payment page, shows where users can purchase music, songs already purchased will swap buy now button for album art. It contains navigation buttons at the top to access other parts of the app</string>
+    <string name="now_description">This is the now playing page, it displays the song currently being played by the user. It contains navigation buttons at the top to access other parts of the app</string>
+    <string name="album_description">This is the albums page, it displays a list of albums on the users device. It contains navigation buttons at the top to access other parts of the app and music controls at the bottom</string>
+    <string name="artist_description">This is the artist page, it displays a list of songs for each artist on the users device. It contains navigation buttons at the top to access other parts of the app and music controls at the bottom</string>
+    <string name="song_description">This is the songs page, it displays a list of songs on the users device. It contains navigation buttons at the top to access other parts of the app and music controls at the bottom</string>
+    <string name="ArtistName">2 Chains</string>
+    <string name="SongTitle">It\'s a Vibe</string>
+</resources>
